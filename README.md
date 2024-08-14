@@ -1,6 +1,6 @@
-## BEM VINDO AO MEU PERFIL 
+## BEem vindo ao meu perfil🐤
 
-MEU NOME E KAYANE cristina
+ Meu nome e Kayane Cristina
 
 -estou estudando na [alura](https://www.alura.com.br)
 - Estou me Desenvolvemdo Na Linguagem JavaScript
